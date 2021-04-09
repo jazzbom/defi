@@ -170,7 +170,7 @@ h4, .h4 {
 }
 
 h5, .h5 {
-    font-size: 1.6rem;
+    font-size: 1.9rem;
     line-height: 1.313;
 }
 
@@ -789,7 +789,7 @@ input[type="reset"],
 input[type="button"] {
     display: inline-block;
     font-family: "montserrat-medium", sans-serif;
-    font-size: 1.2rem;
+    font-size: 0.98rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
     height: 5.4rem;
@@ -877,7 +877,7 @@ input[type="button"].btn--primary:focus {
 }
 
 .btn--stroke-readme, button.btn--stroke-readme {
-    background: #000000ad !important;
+    background: #f0493600 !important;
     border: 0.2rem solid #F5793B;
     color: #F5793B;
 }
